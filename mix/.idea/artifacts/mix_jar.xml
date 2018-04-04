@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mix_jar</output-path>
+    <root id="archive" name="mix.jar">
+      <element id="module-output" name="mix" />
+    </root>
+  </artifact>
+</component>
